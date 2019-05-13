@@ -1,0 +1,93 @@
+.navbar-nav {float: right;}
+
+header {height: 640px;
+background-image: url("../img/header.jpeg");
+background-size: cover;
+background-position: center;}
+
+h1 {color: white;
+padding-top: 200px;
+text-align: center;}
+
+.home {text-align: center;}
+
+.about {text-align: center;
+background-color: #F2F2F2;
+}
+.btn-outline-light {margin-top: 25px;
+border: 3px solid;
+font-weight: bold;
+padding: 5px 20px 5px 20px;}
+
+h2 {padding: 30px 0 30px 0;
+text-align: center;}
+
+hr {width: 5%;
+border-top: 2px solid #1261A0;}
+
+.row {margin: 0 40px 0 40px;}
+
+.about .row i {font-size: 35px;
+ margin: 15px 0 15px 0;}
+
+.about .row i:hover {
+  -ms-transform: scale(1.5); /* IE 9 */
+  -webkit-transform: scale(1.5); /* Safari 3-8 */
+  transform: scale(1.5);
+}
+.portfolio {text-align: center;}
+
+.images {padding-top: 20px;}
+
+img {height: 220px;
+width: 600px;}
+
+.clients img {height: 500px;
+width: 800px;}
+
+.carousel-item h5, .carousel p {color: #1261A0;}
+
+.touch {margin-top: 40px;
+background-color: #F2F2F2;
+height: 160px;}
+
+.touch p {padding-top: 30px;
+width: 60%;
+margin: auto;
+text-align: center;}
+
+.btn-secondary {margin-top: 20px;
+}
+
+.contact {background-color: #BAB6B2;
+padding: 50px;
+margin-top: 30px;
+}
+.contact p {text-align: left;
+width: 80%;
+font-size: 15px;}
+
+.contact h3, h6 {text-align: left;
+font-weight: bold;}
+
+.social {text-align: left;
+font-size: 25px;}
+
+.contact h4 {text-align: left;}
+
+input, textarea {min-width: 250px;
+width: 100%;
+padding: 5px;
+margin-top: 5px;
+background-color: #BAB6B2;
+border-style: none;
+border: 1px solid black;}
+
+::placeholder {color: black;}
+
+.social i {color: black;}
+
+.social .fa-facebook-square:hover {color: #3B5998;}
+.social .fa-twitter-square:hover {color: #38A1F3;}
+.social .fa-google-plus-square:hover {color:#DBA39;}
+.social .fa-linkedin:hover {color: #0077B5;}
